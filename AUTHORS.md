@@ -18,5 +18,6 @@ along with the following contributors:
 - Emmanuel Leblond ([@touilleMan](https://github.com/touilleMan))
 - Alex Ford ([@asford](https://github.com/asford))
 - And Past ([@apast](https://github.com/apast))
+- Matthew Klein ([@johnny-5-code](https://github.com/johnny-5-code))
 
 [home]: README.md
